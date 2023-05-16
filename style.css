@@ -3,3 +3,50 @@
     padding: 0;
     box-sizing: border-box;
 }
+.fbody{
+    background-image: url(images/banner-bg.jpg);
+    border: 1px solid transparent;
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    background-size: cover;
+    position: relative;
+}
+.one{
+    color: white;
+    border: 1px solid transparent;
+    padding-top: 12px;
+    padding-left: 18px;
+    padding-bottom: 12px;
+    padding-right: 18px;
+    border-radius: 15px;
+    text-decoration: none;       
+}
+.flex{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    /* margin-left: 80px; */
+    padding: 72.5px;
+}
+.logo{
+    padding: 50px;
+}
+.buy{
+    list-style: none;
+    text-decoration: none;
+    border: 1px solid transparent;
+    padding-top: 12px;
+    padding-left: 18px;
+    padding-bottom: 12px;
+    padding-right: 18px;
+    border-radius: 35px;
+    color: white;
+    background-color: #ee626b;
+    text-transform: uppercase;
+}
+.one:hover{
+    background-color: #0071f8;
+    transition: 250ms;
+}
