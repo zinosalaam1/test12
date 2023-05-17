@@ -1,3 +1,10 @@
-# zinoln1
-# bigz is the first branch(featureA)
-# bigb is the second branch(featureB)
+## Beyond Limits
+
+#### Overview
+***The plan for beyond limits is a simple website where you can purchase variety of games and also be able to trade on it, it would also allow interaction between one gamer and another***
+
+### Task
+- [x] Created a site logo( both animated and png)
+- [x] Added Fonts for the site
+- [ ] Looking for an investor
+- [ ] Build the Website
