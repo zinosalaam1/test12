@@ -26,9 +26,11 @@
     list-style: none;
     display: flex;
     justify-content: center;
-    gap: 50px;
-    /* margin-left: 80px; */
+    gap: 60px;
+    margin-left: 40px;
     padding: 72.5px;
+    position: relative;
+    top: 45px;
 }
 .logo{
     padding: 50px;
