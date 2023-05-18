@@ -6,5 +6,5 @@
 ### Task
 - [x] Created a site logo( both animated and png)
 - [x] Added Fonts for the site
-- [ ] Looking for an investor
+- [x] Looking for an investor
 - [ ] Build the Website
