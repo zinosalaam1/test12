@@ -8,3 +8,4 @@
 - [x] Added Fonts for the site
 - [x] Looking for an investor
 - [ ] Build the Website
+- [ ] Advertising
