@@ -7,5 +7,6 @@
 - [x] Created a site logo( both animated and png)
 - [x] Added Fonts for the site
 - [x] Looking for an investor
+- [x] Work on site about!
 - [ ] Build the Website
 - [ ] Advertising

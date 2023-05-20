@@ -26,7 +26,7 @@
     list-style: none;
     display: flex;
     justify-content: center;
-    gap: 60px;
+    gap: 40px;
     margin-left: 40px;
     padding: 72.5px;
     position: relative;
@@ -47,9 +47,10 @@
     color: white;
     background-color: #ee626b;
     text-transform: uppercase;
+    font-family: Outfit;
 }
 .one:hover{
-    background-color: #0071f8;
+    background-color: rgb(80, 80, 179);
     transition: 250ms;
 }
 .lego{
